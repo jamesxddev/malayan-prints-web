@@ -1,2 +1,5 @@
 # malayan-prints-web
-Malayan Prints Website 
+Malayan Prints Website - Marketing Website
+Framework: React Typescript
+Component Library: Mantine
+URL: https://mantine.dev/
